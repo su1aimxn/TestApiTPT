@@ -3,7 +3,7 @@ import time
 
 
 
-# URL API และข้อมูลผู้ใช้
+# URL API 
 api_url = "https://wea.hii.or.th:3005/getDataTonPhraeThong"
 auth_data = {
     "user": "ton_phrae_thong",
